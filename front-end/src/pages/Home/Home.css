@@ -1,0 +1,21 @@
+.groupe{
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    margin: auto;
+    padding-top: 5%;
+
+}
+#label{
+    background-color: #FFD7D7;
+    padding: 10PX;
+    margin: auto;
+    border: 1PX solid;
+    margin-top: 100PX;
+    border-radius: 20px;
+    box-shadow: 1px 1px 10px black;
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    max-width: 413px;
+}

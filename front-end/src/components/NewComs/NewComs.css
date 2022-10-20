@@ -1,0 +1,9 @@
+form {
+    display: flex;
+    flex-direction: column;
+    
+    margin-bottom: 100px;
+}
+#btndeco{
+    margin-bottom: 50px;
+}

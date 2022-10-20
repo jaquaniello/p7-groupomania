@@ -1,0 +1,22 @@
+.Headers-containe{
+    display: flex;
+    margin: auto;
+}
+
+
+.link-center{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: auto;
+
+
+}
+
+#groupama {
+    height: 100px;
+    width: 100%;
+    background-color: #FFD7D7;
+}
+
+
