@@ -14,5 +14,5 @@ nodemon server
 
 Enfin pour lancer le Front:
 cd front-end
-puis lancer react
-nodemon
+npm i
+puis npm star
